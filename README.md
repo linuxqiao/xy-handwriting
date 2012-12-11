@@ -7,4 +7,6 @@ INSTALL
 
 ---------------------
 waiting for complete...
-jia jie and dan yang
+Qiao Zhao: qiaozqjhsy@gmail.com
+Jiajie Chen: linux.kakit@gmail.com
+DanYang Liu: ldy86933@gmail.com
