@@ -1,4 +1,4 @@
-xy-hardwriting
+xy-handwriting
 ==============
 
 handwriting recongnition system
